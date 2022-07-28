@@ -57,3 +57,7 @@ https://github.com/axetroy/blog
 https://blog.csdn.net/qq_40374604/article/details/123458692
 
 https://github.com/docsifyjs/awesome-docsify#plugins
+
+https://www.joyupx.com/image/computerArchitecture.jpg
+
+![https://www.joyupx.com/image/computerArchitecture.jpg][冯诺依曼计算机结构]
