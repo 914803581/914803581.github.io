@@ -60,4 +60,4 @@ https://github.com/docsifyjs/awesome-docsify#plugins
 
 https://www.joyupx.com/image/computerArchitecture.jpg
 
-![https://www.joyupx.com/image/computerArchitecture.jpg][冯诺依曼计算机结构]
+![冯诺依曼计算机结构](https://www.joyupx.com/image/computerArchitecture.jpg "计算机硬件结构")
