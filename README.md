@@ -1,11 +1,13 @@
-# 福福福
+# <font face="幼圆" color=#333333>福福福</font>
 -------------------------------------------------------------------------------------------
 
 ## 冯诺依曼计算机结构
 ![冯诺依曼计算机结构](image/computerArchitecture.jpg "计算机硬件结构")
 
-[线程生命周期（thread lifecycle）](thread)
+-------------------------------------------------------------------------------------------
 
-[线程池的执行流程（thread pool execute flow）](threadPool)
+* [线程生命周期（thread lifecycle）](thread)
 
-[网络模型（network model）](network.md)
+* [线程池的执行流程（thread pool execute flow）](threadPool)
+
+* [网络模型（network model）](network.md)
