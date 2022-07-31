@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------------------
 ## 线程池的执行流程（thread pool execute flow）
-![线程池的执行流程](image/thread-pool-flow.jpg "线程池的执行流程（thread pool execute flow）")
+![线程池的执行流程](https://www.joyupx.com/image/thread-pool-flow.jpg "线程池的执行流程（thread pool execute flow）")
 
 -------------------------------------------------------------------------------------------
 
