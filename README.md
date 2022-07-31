@@ -11,3 +11,5 @@
 * [线程池的执行流程（thread pool execute flow）](threadPool)
 
 * [网络模型（network model）](network.md)
+
+* [操作数交换](difference.md)
