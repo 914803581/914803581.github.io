@@ -6,9 +6,9 @@
 
 -------------------------------------------------------------------------------------------
 
-* [线程生命周期（thread lifecycle）](thread)
+* [线程生命周期（thread lifecycle）](thread.md)
 
-* [线程池的执行流程（thread pool execute flow）](threadPool)
+* [线程池的执行流程（thread pool execute flow）](threadPool.md)
 
 * [网络模型（network model）](network.md)
 
