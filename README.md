@@ -6,10 +6,12 @@
 
 -------------------------------------------------------------------------------------------
 
-* [线程生命周期（thread lifecycle）](thread.md)
+* [线程生命周期（thread lifecycle）](threadLifeCycle.md)
 
-* [线程池的执行流程（thread pool execute flow）](threadPool.md)
+* [线程池的执行流程（thread pool execute flow）](threadPoolFlow.md)
 
-* [网络模型（network model）](network.md)
+* [线程池的 5 中状态](threadPoolState.md)
 
-* [操作数交换](difference.md)
+* [网络模型（network model）](networkModel.md)
+
+* [操作数交换（number swap）](numberSwap.md)

@@ -1,9 +1,10 @@
 # <font face="楷体" color=#333333>福福福</font>
 
 -------------------------------------------------------------------------------------------
+## 线程池的 5 中状态
+ <font color=#333333 size='5'>thread pool 5 state</font>
 
-## 操作数交换
-![操作数交换](https://www.joyupx.com/image/difference.jpg "操作数交换（swap number）")
+![线程池的 5 中状态](/image/thread-pool-state-simple.jpg "线程池的 5 中状态（thread pool 5 state）")
 
 -------------------------------------------------------------------------------------------
 
