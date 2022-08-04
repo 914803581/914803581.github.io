@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------------------
 ## 冯诺依曼计算机结构
-![冯诺依曼计算机结构](https://www.joyupx.com/image/computerArchitecture.jpg "计算机硬件结构")
+![冯诺依曼计算机结构](https://www.joyupx.com/image/computer-architecture.jpg "计算机硬件结构")
 
 -------------------------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 * [线程池的执行流程（thread pool execute flow）](threadPoolFlow.md)
 
-* [线程池的 5 中状态](threadPoolState.md)
+* [线程池的 5 中状态（thread pool 5 state](threadPoolState.md)
 
 * [网络模型（network model）](networkModel.md)
 
