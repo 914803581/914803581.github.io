@@ -4,7 +4,7 @@
 ## 线程池的执行流程
 <font color=#333333 size=5>thread pool execute flow</font>
 
-![线程池的执行流程](https://www.joyupx.com/image/thread-pool-flow.jpg "线程池的执行流程（thread pool execute flow）")
+![线程池的执行流程](/image/thread-pool-flow.jpg "线程池的执行流程（thread pool execute flow）")
 
 -------------------------------------------------------------------------------------------
 

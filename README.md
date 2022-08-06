@@ -10,7 +10,7 @@
 
 * [线程池的执行流程（thread pool execute flow）](threadPoolFlow.md)
 
-* [线程池的 5 中状态（thread pool 5 state](threadPoolState.md)
+* [线程池的 5 中状态（thread pool 5 state）](threadPoolState.md)
 
 * [网络模型（network model）](networkModel.md)
 
